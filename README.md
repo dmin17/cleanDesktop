@@ -1,2 +1,12 @@
-# cleanDesktop
-Script that stores all screenshots on desktop into a folder named desktop
+# Do you have hundreds of screenshots on your desktop, and dont feel like manually moving them????
+Well I did, so I wrote this very short python script to store all of the screenshots into a folder name screenshot. 
+
+1. Clone this repo in your root directory (1 level above your desktop directory)
+
+$ git clone https://github.com/jsboss5/cleanDesktop
+
+2. Run it
+
+$ python3 cleanDesktop.py
+
+
