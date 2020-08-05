@@ -3,10 +3,10 @@
 
 1. Clone this repo in your root directory (1 level above your desktop directory)
 
-$ git clone https://github.com/jsboss5/cleanDesktop
+    $ git clone https://github.com/jsboss5/cleanDesktop
 
 2. Run it
 
-$ python3 cleanDesktop.py
+    $ python3 cleanDesktop.py
 
 
